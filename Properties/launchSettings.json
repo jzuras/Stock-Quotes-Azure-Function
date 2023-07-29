@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Stock_Quotes_Azure_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7223",
+      "launchBrowser": false
+    }
+  }
+}
