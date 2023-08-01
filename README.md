@@ -23,3 +23,5 @@ Originally, I wrote this to be a simple pass-through of the TwelveData api, even
 I knew it was a pain to work with. But when I started working on a new Client for this
 Azure Function, I realized I had the chance to build something that was easier for the
 client to use. Comparing the original TS client to the new one makes this clear, I believe.
+
+I go into more detail on this in my discussion on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7092217565648723968/)
